@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4fc75c1b.chunk.css",
+    "main.js": "/static/js/main.3e7c7557.chunk.js",
+    "main.js.map": "/static/js/main.3e7c7557.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.33c06662.js",
+    "runtime-main.js.map": "/static/js/runtime-main.33c06662.js.map",
+    "static/css/2.12b5b4c7.chunk.css": "/static/css/2.12b5b4c7.chunk.css",
+    "static/js/2.8263942d.chunk.js": "/static/js/2.8263942d.chunk.js",
+    "static/js/2.8263942d.chunk.js.map": "/static/js/2.8263942d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8f01207b58bd9cc318078116f4354227.js": "/precache-manifest.8f01207b58bd9cc318078116f4354227.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.12b5b4c7.chunk.css.map": "/static/css/2.12b5b4c7.chunk.css.map",
+    "static/css/main.4fc75c1b.chunk.css.map": "/static/css/main.4fc75c1b.chunk.css.map",
+    "static/js/2.8263942d.chunk.js.LICENSE.txt": "/static/js/2.8263942d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/ProximaNova-SemiBold.2b606eb2.otf",
+    "static/media/adBigPhoto.png": "/static/media/adBigPhoto.3838ac0c.png",
+    "static/media/adsPhoto1.png": "/static/media/adsPhoto1.2a3d50c6.png",
+    "static/media/adsPhoto2.png": "/static/media/adsPhoto2.c26b0e6d.png",
+    "static/media/adsPhoto3.png": "/static/media/adsPhoto3.d2b0dec6.png",
+    "static/media/lightgallery.css": "/static/media/lg.ecff1170.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c06662.js",
+    "static/css/2.12b5b4c7.chunk.css",
+    "static/js/2.8263942d.chunk.js",
+    "static/css/main.4fc75c1b.chunk.css",
+    "static/js/main.3e7c7557.chunk.js"
+  ]
+}
